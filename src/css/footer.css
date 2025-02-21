@@ -1,0 +1,16 @@
+.footer {
+    /* position: fixed; */
+    display: block;
+    height: 7vh;
+    color: white;
+    background-color: black;
+    text-align: center;
+    /* position: relative; */
+    bottom: 0;
+    width: 100%;
+    padding-top: auto;
+    padding-bottom: auto;
+    margin-bottom: 0px;
+    margin-top: 2px;
+    /* min-height: 100vh; */
+}
