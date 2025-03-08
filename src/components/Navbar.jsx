@@ -7,7 +7,7 @@ const Navbar = ({setPage}) => {
     <nav className="navbar navbar-expand-lg">
   <div className="container-fluid">
     {/* <img src="../../media/img/logo.png" alt="Satna ke Dhaba" /> */}
-    <a className="navbar-brand" href="#">Satna ke Dhaba</a>
+    <a className="navbar-brand" href="#">Bagheli Vyanjan</a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>

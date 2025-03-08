@@ -5,7 +5,7 @@ const Home = () => {
     <div>
       <h1>Welcome to Satna ke Dhaba</h1>
       <div className="home_intro_page">
-        <video src="../../media/vedio/introvedio.mp4" autoPlay controls preload="ture" loop></video>
+        <video src="../../media/vedio/introvedio.mp4" controls preload="ture" loop></video>
         <h3 id="products">Try our delicious food</h3>
         <div className="item_contanior" >
           <div className="itemdiv">
